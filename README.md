@@ -4,7 +4,7 @@ A personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-No live demo is published yet. To publish the site with GitHub Pages, enable Pages for this repository and use the `main` branch and root folder.
+[Live Demo](https://waleedabdi.github.io/Team-Project/)
 
 ## Technologies Used
 
